@@ -6,8 +6,8 @@ Feito com NodeJS
   - Tailwind
   - ytld-core
 
-![alt-text](Screenshots/convert-darkmode.png)
+![alt-text](Screenshots/convert-darkmode2.png)
 
-![alt-text](Screenshots/download-darkmode.png)
+![alt-text](Screenshots/download-darkmode2.png)
 
 ![alt-text](Screenshots/download-lightmode.png)
